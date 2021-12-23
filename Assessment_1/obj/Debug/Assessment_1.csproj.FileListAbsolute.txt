@@ -1,0 +1,7 @@
+C:\Users\shuoy\source\repos\Assessment_1\Assessment_1\bin\Debug\Assessment_1.exe.config
+C:\Users\shuoy\source\repos\Assessment_1\Assessment_1\bin\Debug\Assessment_1.exe
+C:\Users\shuoy\source\repos\Assessment_1\Assessment_1\bin\Debug\Assessment_1.pdb
+C:\Users\shuoy\source\repos\Assessment_1\Assessment_1\obj\Debug\Assessment_1.csprojResolveAssemblyReference.cache
+C:\Users\shuoy\source\repos\Assessment_1\Assessment_1\obj\Debug\Assessment_1.csproj.CoreCompileInputs.cache
+C:\Users\shuoy\source\repos\Assessment_1\Assessment_1\obj\Debug\Assessment_1.exe
+C:\Users\shuoy\source\repos\Assessment_1\Assessment_1\obj\Debug\Assessment_1.pdb
